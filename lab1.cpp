@@ -14,7 +14,7 @@ int main()
 		if(n%2==1) n=3*n+1;
 		else n/=2;
 	}
-    cout<<n;
+    cout<<n<<endl;
 	
 	return 0;
 }
