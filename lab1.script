@@ -1,0 +1,15 @@
+Script started on 2016年03月15日 (週二) 13時30分16秒
+]0;F74046470@2015cpp: ~[01;32mF74046470@2015cpp[00m:[01;34m~[00m$ whoami;pwe[Kd
+F74046470
+/home/F74046470
+]0;F74046470@2015cpp: ~[01;32mF74046470@2015cpp[00m:[01;34m~[00m$ git config -l
+user.name=HsuShengHsien
+user.email=t0987235673@gmail.com
+]0;F74046470@2015cpp: ~[01;32mF74046470@2015cpp[00m:[01;34m~[00m$ git clone http://githum[Kb.com/HsuShengKH[K[KHsine[K[Ken/lab1.git
+Cloning into 'lab1'...
+warning: You appear to have cloned an empty repository.
+]0;F74046470@2015cpp: ~[01;32mF74046470@2015cpp[00m:[01;34m~[00m$ ls
+[0m[01;34mlab1[0m  lab1.script
+]0;F74046470@2015cpp: ~[01;32mF74046470@2015cpp[00m:[01;34m~[00m$ cat la[K[K[K[K[K[Kexit
+
+Script done on 2016年03月15日 (週二) 13時32分31秒
